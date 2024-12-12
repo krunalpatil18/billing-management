@@ -1,7 +1,21 @@
-# BilledIn
-BilledIn is a simple billing system (Desktop application) for small businesses. It is designed to be easy to use and easy to understand. It is completely written in Python and uses the Tkinter library for the GUI and SQLite for the database.
+# 🧾 Billing Management System  
+The **Billing Management System** is a desktop application developed using **Python** and **SQLite**. It streamlines the process of generating bills, managing customer data, and tracking payments. This project is a great learning resource for understanding **desktop GUI development, database integration, and CRUD operations**.
 
-## Features
+## 🌟 **Key Features**  
+- 📑 **Bill Generation**: Generate detailed customer bills with itemized product details.  
+- 🧍 **Customer Management**: Add, update, delete, and manage customer records.  
+- 📦 **Product Management**: Add, update, delete, and manage product details.  
+- 📊 **Sales Reports**: View daily, weekly, or monthly sales reports.  
+- 🔐 **User Authentication**: Secure login system for authorized access.  
+- 💾 **Data Persistence**: Uses **SQLite** to store customer, product, and transaction data.  
+
+## 🌟 **Technologies Used**  
+- 💻 **Programming Language**: Python  
+- 🖥️ **GUI Library**: Tkinter (or mention any other library like PyQt or Kivy if applicable)  
+- 🗄️ **Database**: SQLite (for data storage and management)  
+
+
+## Screenshot
 - **Main Screen**
     - The main screen of the application is where the user will get option to login as admin or as an employee.
     ![Main Screen](images/main_pg.png)
@@ -60,6 +74,16 @@ BilledIn is a simple billing system (Desktop application) for small businesses. 
     ```bash
     python app.py
     ```
+
+    <h2>📬 Contact</h2>
+
+Feel free to reach me through the below handles if you'd like to contact me.
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Krunal-patil-074432281)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kunal._.patil18)
+
+---
+Made with ❤️ by [Your Name]  
 
 
 
